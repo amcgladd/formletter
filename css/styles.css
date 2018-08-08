@@ -1,0 +1,15 @@
+#letter {
+  margin: 30px;
+  padding: 30px;
+  display: none;
+  font-family: 'Reenie Beanie', cursive;
+  font-size: 35px;
+  background-color: #f9f9e8;
+  box-shadow: 10px 5px 5px #d3d3d3;
+}
+
+.bold {
+  font-weight: bold;
+  font-family: 'Zeyada', cursive;
+  font-size: 50px;
+}
